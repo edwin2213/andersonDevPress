@@ -1,0 +1,24 @@
+[submodule "wordpress"]
+	path = wordpress
+	url = git://github.com/WordPress/WordPress.git
+[submodule "content/themes/rmtheme"]
+	path = content/themes/rmtheme
+	url = https://rosemontsoftware@bitbucket.org/rosemontmedia/rm-theme.git
+[submodule "content/plugins/rmgallery2"]
+	path = content/plugins/rmgallery2
+	url = https://rosemontsoftware@bitbucket.org/rosemontmedia/rmgallery2.git
+[submodule "content/plugins/all-in-one-seo-pack"]
+	path = content/plugins/all-in-one-seo-pack
+	url = https://github.com/wp-plugins/all-in-one-seo-pack.git
+[submodule "content/plugins/wp-migrate-db"]
+	path = content/plugins/wp-migrate-db
+	url = https://github.com/deliciousbrains/wp-migrate-db.git
+[submodule "content/plugins/cforms"]
+	path = content/plugins/cforms
+	url = https://rosemontsoftware@bitbucket.org/rosemontmedia/rm_cforms.git
+[submodule "content/plugins/google-sitemap-generator"]
+	path = content/plugins/google-sitemap-generator
+	url = https://github.com/wp-plugins/google-sitemap-generator.git
+[submodule "content/plugins/advanced-custom-fields-pro"]
+	path = content/plugins/advanced-custom-fields-pro
+	url = https://rosemontsoftware@bitbucket.org/rosemontmedia/rm-acf-pro.git
